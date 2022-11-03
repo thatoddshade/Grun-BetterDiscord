@@ -23,8 +23,8 @@
 
 
 ## Screenshots
-![alt Screenshot n°1](https://raw.githubusercontent.com/Shad0w57/Uncleft/master/screenshots/uncleft_screenshot1.png "Discord server text channel")
-![alt Screenshot n°2](https://raw.githubusercontent.com/Shad0w57/Uncleft/master/screenshots/uncleft_screenshot2.png "Discord user settings")
+![alt Screenshot n°1](https://raw.githubusercontent.com/Shad0w57/Uncleft-BetterDiscord/master/screenshots/uncleft_screenshot1.png "Discord server text channel")
+![alt Screenshot n°2](https://raw.githubusercontent.com/Shad0w57/Uncleft-BetterDiscord/master/screenshots/uncleft_screenshot2.png "Discord user settings")
 
 
 ## Notes
