@@ -4,14 +4,19 @@
  ###### Uncleft means "atom" in [anglish](https://en.wikipedia.org/wiki/Anglish "Linguistic purism in English - Wikipedia").
 
 ## How to install ?
-1. If you don't have [__Discord Desktop__](https://discord.com/download "Download Discord to Talk, Chat, and Hang Out"), install it.
-2. Install [__BetterDiscord__](https://betterdiscord.app/ "The Discord Enhancement Project - BetterDiscord").
-4. Download "__uncleft.theme.css__".
-3. Go to your settings.
-4. Scroll down and click on "__Themes__" on the left side of your screen.
-5. Click on "__Open Themes folder__".
-6. Put "__uncleft.theme.css__" in this folder.
-7. Enable it.
+1. Install client.
+* If you don't have [__Discord Desktop__](https://discord.com/download "Download Discord to Talk, Chat, and Hang Out"), install it.
+* Install [__BetterDiscord__](https://betterdiscord.app/ "The Discord Enhancement Project - BetterDiscord").
+2. Install theme
+* Download "__uncleft.theme.css__".
+* Go to your Discord user settings.
+* Scroll down and click on "__Themes__" on the left side of your screen.
+* Click on "__Open Themes folder__".
+* Put "__uncleft.theme.css__" in this folder.
+3. Enable it.
+* Go back to "__Themes__" and check Uncleft.
+![image](https://user-images.githubusercontent.com/115649477/199759816-2d9e2946-c9a6-4ada-a809-7eebb8307a05.png)
+
 * Enjoy !
 
 
