@@ -8,11 +8,13 @@
 * If you don't have [__Discord Desktop__](https://discord.com/download "Download Discord to Talk, Chat, and Hang Out"), install it.
 * Install [__BetterDiscord__](https://betterdiscord.app/ "The Discord Enhancement Project - BetterDiscord").
 2. Install theme
-* Download "__uncleft.theme.css__".
+* Download "[__uncleft.theme.css__](https://raw.githubusercontent.com/Shad0w57/Uncleft/master/uncleft.theme.css "https://raw.githubusercontent.com/Shad0w57/Uncleft/master/uncleft.theme.css")".
 * Go to your Discord user settings.
 * Scroll down and click on "__Themes__" on the left side of your screen.
-* Click on "__Open Themes folder__".
-* Put "__uncleft.theme.css__" in this folder.
+
+![image](https://user-images.githubusercontent.com/115649477/199768572-c8ec04c0-ac5a-4b96-82f0-c5f0969f83fc.png)
+* Click on "__Open Themes Folder__".
+* Put "[__uncleft.theme.css__](https://raw.githubusercontent.com/Shad0w57/Uncleft/master/uncleft.theme.css "https://raw.githubusercontent.com/Shad0w57/Uncleft/master/uncleft.theme.css")" in this folder.
 3. Enable it.
 * Go back to "__Themes__" and check Uncleft.
 ![image](https://user-images.githubusercontent.com/115649477/199759816-2d9e2946-c9a6-4ada-a809-7eebb8307a05.png)
@@ -28,21 +30,21 @@
 ## Notes
 You can change the gradient colours by changing this :
 ```css
-16    --themeColor1: #966c6c;
-17    --themeColor2: #7f708a;
+    --themeColor1: #966c6c;
+    --themeColor2: #7f708a;
 ```
 The home button icon by changing this :
 ```css
-19    --homeImage: url('https://example.com/the-pic-you-want');
-20    --homeImageSize: cover;
+    --homeImage: url('https://example.com/the-pic-you-want');
+    --homeImageSize: cover;
 ```
 And also the background :
 ```css
-21    --backgroundColor: #2e222f;
-22    --backgroundImage: url('https://example.com/the-bg-you-want.png');
-23    --backgroundPosition: center;
-24    --backgroundSize: cover;
-25    --backgroundRepeat: no-repeat;
-26    --backgroundBlur: 75px;
-27    --backgroundOpacity: 0.64;
+    --backgroundColor: #2e222f;
+    --backgroundImage: url('https://example.com/the-bg-you-want.png');
+    --backgroundPosition: center;
+    --backgroundSize: cover;
+    --backgroundRepeat: no-repeat;
+    --backgroundBlur: 75px;
+    --backgroundOpacity: 0.64;
 ```
