@@ -16,9 +16,9 @@
 
 
 ## Screenshots
-![alt Screenshot n°1](https://us-east-1.tixte.net/uploads/shad0w-57.is-from.space/uncleft_screenshot1.png "Discord server text channel")
-![alt Screenshot n°2](https://us-east-1.tixte.net/uploads/shad0w-57.is-from.space/uncleft_screenshot2.png "Discord voice chat")
-![alt Screenshot n°3](https://us-east-1.tixte.net/uploads/shad0w-57.is-from.space/uncleft_screenshot3.png "Discord user settings")
+![alt Screenshot n°1](https://raw.githubusercontent.com/Shad0w57/Uncleft/master/screenshots/uncleft_screenshot1.png "Discord server text channel")
+![alt Screenshot n°2](https://raw.githubusercontent.com/Shad0w57/Uncleft/master/screenshots/uncleft_screenshot2.png "Discord user settings")
+
 
 ## Notes
 You can change the gradient colours by changing this :
