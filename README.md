@@ -33,13 +33,13 @@ You can change the gradient colours by changing this :
 ```
 The home button icon by changing this :
 ```css
-19    --homeImage: url('https://us-east-1.tixte.net/uploads/shad0w-57.is-from.space/uncleft_icon.png');
+19    --homeImage: url('https://example.com/the-pic-you-want');
 20    --homeImageSize: cover;
 ```
 And also the background :
 ```css
 21    --backgroundColor: #2e222f;
-22    --backgroundImage: url('https://us-east-1.tixte.net/uploads/shad0w-57.is-from.space/uncleft_background.png');
+22    --backgroundImage: url('https://example.com/the-bg-you-want.png');
 23    --backgroundPosition: center;
 24    --backgroundSize: cover;
 25    --backgroundRepeat: no-repeat;
