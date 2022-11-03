@@ -4,6 +4,7 @@
  ###### Uncleft means "atom" in [anglish](https://en.wikipedia.org/wiki/Anglish "Linguistic purism in English - Wikipedia").
 
 ## How to install ?
+### Discord Desktop
 1. Install client.
 * If you don't have [__Discord Desktop__](https://discord.com/download "Download Discord to Talk, Chat, and Hang Out"), install it.
 * Install [__BetterDiscord__](https://betterdiscord.app/ "The Discord Enhancement Project - BetterDiscord").
@@ -21,6 +22,10 @@
 
 * Enjoy !
 
+### Discord Web
+* u cant lol :)
+
+* Enjoy !
 
 ## Screenshots
 ![alt Screenshot n°1](https://raw.githubusercontent.com/Shad0w57/Uncleft-BetterDiscord/master/screenshots/uncleft_screenshot1.png "Discord server text channel")
